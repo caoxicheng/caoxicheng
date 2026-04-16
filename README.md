@@ -16,4 +16,4 @@
 
 ### 技术栈
 
-Angular / Vue / React / TypeScript / Node.js / Docker / CI/CD
+<img width="24" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular"> <img width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue"> <img width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"> <img width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript"> <img width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js"> <img width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker">
