@@ -1,31 +1,17 @@
 # 你好，我叫曹熙程
 
-苏州人，前端开发。
-
-Angular 写得多一些，Vue 和 React 也在用。不挑框架，能解决问题就行。
+苏州人，前端开发。Angular 写得多一些，Vue 和 React 也在用。不挑框架，能解决问题就行。
 
 最近在折腾 AI 应用，把 LLM 接入实际产品里——不是追热点，是真的觉得这东西能落地。最近做的项目是小六壬算卦，把传统占卜和 AI 解读结合起来，从构想到上线自己全流程撸了一遍。
 
 技术栈比较杂，前端那些都会一点，工程化的东西也在学（Docker、CI/CD 之类的）。后端够用就行，不打算往深了走。
 
-平时写写博客，记录踩坑。
+平时写写博客，记录踩坑。有问题可以邮件：dove_justdoit@outlook.com
 
-有问题可以邮件：dove_justdoit@outlook.com
-
----
-
-## GitHub 统计
-
-![Profile Views](https://komarev.com/ghpvc/?username=caoxicheng&label=Profile%20views&color=0e75b6&style=flat)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=caoxicheng&layout=compact)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=caoxicheng&theme=default)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=caoxicheng)
+![Profile Views](https://komarev.com/ghpvc/?username=caoxicheng&label=&color=0e75b6&style=flat) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=caoxicheng&layout=compact) ![Stats](https://github-readme-stats.vercel.app/api?username=caoxicheng&theme=default) ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=caoxicheng)
 
 ---
 
 ## 技术栈
 
-[![Angular](https://angular.io/assets/images/logos/angular/angular.svg)](https://angular.io) [![Vue](https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg)](https://vuejs.org) [![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)](https://react.dev) [![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](https://git-scm.com) [![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg)](https://www.typescriptlang.org) [![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg)](https://nodejs.org)
+![Angular](https://angular.io/assets/images/logos/angular/angular.svg#h=20) ![Vue](https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg#h=20) ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg#h=20) ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg#h=20) ![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg#h=20) ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg#h=20)
