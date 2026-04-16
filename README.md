@@ -1,6 +1,6 @@
 # 你好，我叫曹熙程
 
-<p align="center">![Profile Views](https://komarev.com/ghpvc/?username=caoxicheng&label=访问量&color=0e75b6&style=flat)</p>
+<center>![Profile Views](https://komarev.com/ghpvc/?username=caoxicheng&label=访问量&color=0e75b6&style=flat)</center>
 
 苏州人，前端开发。Angular 写得多一些，Vue 和 React 也在用。不挑框架，能解决问题就行。
 
