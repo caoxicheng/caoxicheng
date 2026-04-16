@@ -1,5 +1,7 @@
 # 你好，我叫曹熙程
 
+![Profile Views](https://komarev.com/ghpvc/?username=caoxicheng&label=阅读&color=0e75b6&style=flat)
+
 苏州人，前端开发。Angular 写得多一些，Vue 和 React 也在用。不挑框架，能解决问题就行。
 
 最近在折腾 AI 应用，把 LLM 接入实际产品里——不是追热点，是真的觉得这东西能落地。最近做的项目是小六壬算卦，把传统占卜和 AI 解读结合起来，从构想到上线自己全流程撸了一遍。
@@ -8,10 +10,10 @@
 
 平时写写博客，记录踩坑。有问题可以邮件：dove_justdoit@outlook.com
 
-![Profile Views](https://komarev.com/ghpvc/?username=caoxicheng&label=&color=0e75b6&style=flat) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=caoxicheng&layout=compact) ![Stats](https://github-readme-stats.vercel.app/api?username=caoxicheng&theme=default) ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=caoxicheng)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=caoxicheng&layout=compact) ![Stats](https://github-readme-stats.vercel.app/api?username=caoxicheng&theme=default) ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=caoxicheng)
 
 ---
 
 ## 技术栈
 
-<img width="20" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular"> <img width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue"> <img width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"> <img width="20" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git"> <img width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript"> <img width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js">
+Angular Vue React Git TypeScript Node.js
